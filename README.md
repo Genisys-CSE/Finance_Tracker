@@ -58,9 +58,9 @@ A simple and efficient web application built with HTML, CSS, and JavaScript to h
 ├── css/
 │   └── style.css      # Styles
 ├── js/
-│   ├── app.js         # Main application logic
-│   ├── transactions.js # Transaction handling
-│   └── charts.js      # Charts and statistics
+│  
+│   ├── script.js
+│   
 └── README.md
 ```
 
